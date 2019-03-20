@@ -1,0 +1,4 @@
+def meal_choice("vegan")
+end
+def meal_choice(="meat")
+end
