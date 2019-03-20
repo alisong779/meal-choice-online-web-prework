@@ -1,4 +1,3 @@
 def meal_choice(name = "meat")
+  puts "Vegan"
 end
-
-meal_choice("vegan")
